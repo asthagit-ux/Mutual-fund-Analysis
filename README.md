@@ -110,26 +110,3 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 | Excel  | Formatting, validation, supporting data |
 | Power BI | Interactive dashboard and visual storytelling |
 
----
-
-## 📁 Files in This Repository
-
-| File | Description |
-|------|-------------|
-| [top_30_mutual_funds.xlsx](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
-| [Mutual Fund Dashboard.pbix](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard |
-| [Mutual Fund Dashboard.png](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png) | Dashboard image preview |
-
----
-
-✅ **Feel free to fork, explore, and contribute!**
-
-### 🙌 Feedback Welcome
-
-Thank you for exploring my Mutual Fund Analysis project!  
-I’m always open to suggestions, improvements, or collaboration ideas.
-
-📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b)  
-📧 Or drop an email: **niravtrivedi069@gmail.com**
-
-Your feedback helps me grow and build better data-driven solutions. Let’s connect and discuss ideas!
